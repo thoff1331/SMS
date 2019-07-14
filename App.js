@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
       <Text>this is insane</Text>
+      <Text>Here will be a login component original design included</Text>
     </View>
   );
 }
